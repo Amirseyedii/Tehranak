@@ -1,0 +1,32 @@
+export const properties = [
+  {
+    id: 1,
+    name: 'Black Modern House',
+    location: 'Broadway Street, New York',
+    price: 820,
+    image: 'https://images.unsplash.com/photo-1588880331179-bc9b93a8cb5e?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    description: 'Simple house with modern architecture and cool interiors located in the city center making easier for you to access all over the city.',
+    bedrooms: 5,
+    bathrooms: 2,
+  },
+  {
+    id: 2,
+    name: 'Luxury Villa',
+    location: 'Bali, Indonesia',
+    price: 1200,
+    image: 'https://images.unsplash.com/photo-1568605114967-8130f3a36994?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    description: 'A beautiful villa with a private pool and a stunning view of the ocean.',
+    bedrooms: 4,
+    bathrooms: 3,
+  },
+  {
+    id: 3,
+    name: 'Cozy Cottage',
+    location: 'The Cotswolds, UK',
+    price: 600,
+    image: 'https://images.unsplash.com/photo-1570129477492-45c003edd2be?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    description: 'A charming cottage in the heart of the English countryside.',
+    bedrooms: 2,
+    bathrooms: 1,
+  },
+];
